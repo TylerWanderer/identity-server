@@ -1,0 +1,52 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.vspscc
+*.vssscc
+
+# Visual Studio Code files
+.vscode/
+
+# ASP.NET files
+appsettings.json
+appsettings.*.json
+wwwroot/
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Environment files
+.env
+.env.*
+
+# Security-related files
+secrets.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+*.iml
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# Generated files
+Generated/
+
+# Node.js files (if applicable)
+node_modules/
+
+# Coverage reports
+coverage/
+*.cov
+*.lcov
+
